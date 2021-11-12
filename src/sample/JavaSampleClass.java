@@ -7,7 +7,7 @@ public class JavaSampleClass {
 		System.out.println("Hello Java!!!");
 		/*コマンドプロンプトで実行するときの手順
 		 * ①コマンドプロンプトでclassファイルが格納されているbinディレクトリまで移動
-		 * ②java sample.SampleClassを入力し実行
+		 * ②java sample.JavaSampleClassを入力し実行
 		 */
 	}
 
